@@ -1,9 +1,9 @@
 import numpy as np
 import cv2 as cv
 
-img = cv.imread('baboon.png') #original
-img2 = cv.imread('baboon.png') #aplicar grayscale com media aritmetica, pesos iguais por canal
-img3 = cv.imread('baboon.png') #aplicar grayscale com media ponderada, usando a distribuição dos cones RGB
+img = cv.imread('img/baboon.png') #original
+img2 = cv.imread('img/baboon.png') #aplicar grayscale com media aritmetica, pesos iguais por canal
+img3 = cv.imread('img/baboon.png') #aplicar grayscale com media ponderada, usando a distribuição dos cones RGB
 
 print(img.shape)
 
