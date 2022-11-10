@@ -1,5 +1,8 @@
 # PGGB2022
-Trabalho Grau B - Unisinos 2022/2
+``` Trabalho Grau B - Unisinos 2022/2 ```
+
+## Documentação
+- (OpenCV)[https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html]
 
 ## Filtros Utilizados
 
