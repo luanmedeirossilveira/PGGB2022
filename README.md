@@ -1,10 +1,13 @@
 # PGGB2022
 ``` Trabalho Grau B - Unisinos 2022/2 ```
 
+CÓDIGO DO TRABALHO EM ```main.py```
+
 Adicionando filtros com PYTHON - OpenCV
 
 ## Documentação
 - [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+
 
 ## Filtros Utilizados
 
@@ -41,16 +44,16 @@ do Instagram). Para tal, é necessário:
 [x] Permitir fazer a captura de vídeo pela webcam
 
 • Execução: dois tipos de operações serão possíveis:
-[ ] Colar stickers – a partir de uma base de no mínimo 5 stickers diferentes (sprites
+[X] Colar stickers – a partir de uma base de no mínimo 5 stickers diferentes (sprites
 com transparência), selecionar pela interface (clique do mouse) e posicioná-los
 acima da foto (o posicionamento pode ser feito via mouse ou teclado)
 
-[ ] Aplicar filtro – a partir de uma base de no mínimo 10 efeitos diferentes,
+[X] Aplicar filtro – a partir de uma base de no mínimo 10 efeitos diferentes,
 selecionar pela interface (clique do mouse) e com isso a foto será alterada de
 acordo com o filtro.
 
 • Output: 
-[ ] salvar a foto alterada. No caso do vídeo, salvar um frame.
+[X] salvar a foto alterada. No caso do vídeo, salvar um frame.
 
 # Execução
   
