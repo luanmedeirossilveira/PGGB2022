@@ -1,6 +1,8 @@
 # PGGB2022
 ``` Trabalho Grau B - Unisinos 2022/2 ```
 
+Luan Medeiros Silveira
+
 CÓDIGO DO TRABALHO EM ```main.py```
 
 Adicionando filtros com PYTHON - OpenCV
