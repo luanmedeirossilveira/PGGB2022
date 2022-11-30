@@ -31,3 +31,33 @@ Adicionando filtros com PYTHON - OpenCV
 - Top Hat
 - Black Hat
 
+## Trabalho
+
+Objetivo: Implementar um protótipo de aplicativo de edição de imagens (inspirado nos stories
+do Instagram). Para tal, é necessário:
+
+• Input:
+[x] Permitir ao usuário escolher a foto para carregar (pode ser via console)
+[x] Permitir fazer a captura de vídeo pela webcam
+
+• Execução: dois tipos de operações serão possíveis:
+[ ] Colar stickers – a partir de uma base de no mínimo 5 stickers diferentes (sprites
+com transparência), selecionar pela interface (clique do mouse) e posicioná-los
+acima da foto (o posicionamento pode ser feito via mouse ou teclado)
+
+[ ] Aplicar filtro – a partir de uma base de no mínimo 10 efeitos diferentes,
+selecionar pela interface (clique do mouse) e com isso a foto será alterada de
+acordo com o filtro.
+
+• Output: 
+[ ] salvar a foto alterada. No caso do vídeo, salvar um frame.
+
+# Execução
+  
+  ``` python3 main.py stadium.jpg "False" ```
+
+  ``` python3 main.py stadium.jpg "True" ```
+
+  ``` python3 main.py "True" ```
+
+  ``` python3 main.py "False" ```

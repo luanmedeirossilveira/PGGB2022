@@ -1,0 +1,24 @@
+Juiz:
+
+	Xi = 0 \ Xf = 44
+	Yi = 0 \ Yf = 40
+
+Canarinho:
+
+	Xi = 47  \ Xf = 89
+	Yi = 0 \ Yf = 40
+
+Taça:
+
+	Xi = 94  \ Xf = 139
+	Yi = 0 \ Yf = 40
+
+Chuteira:
+
+	Xi = 144  \ Xf = 185
+	Yi = 0 \ Yf = 40
+
+Bola:
+
+	Xi = 188 \ Xf = 236
+	Yi = 0 \ Yf = 40
